@@ -44,6 +44,7 @@ npm i wenkil-transverse-table
 在父组件里,动态获取数据时需要调用下this.$refs.transverseTable.setTable() 来渲染数据
 
 columnNum为 列数，默认为6,可以根据需求传如你想要展示的列数
+
 tableData为 Key Value 格式的数组
 
 我的github地址 https://github.com/wenkil 欢迎指点
