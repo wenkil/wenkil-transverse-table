@@ -1,7 +1,7 @@
 ## INSTALL
 npm i wenkil-transverse-table
 
-##效果展示
+## 效果展示
 ![image](https://user-images.githubusercontent.com/48345586/127952584-0db67fdf-d7b8-4c37-a66a-b1efad7f344d.png)
 
 ![image](https://user-images.githubusercontent.com/48345586/127952594-d01bb6e5-9d4e-4206-8567-acb186666d7e.png)
